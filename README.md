@@ -1,6 +1,6 @@
 # Grensesnittdesign (Interface Design Exam)
 
-This is the exam that @Ulseto and I delivered.
+This is the exam that @Ulset and I delivered.
 
 Grade: A
 
