@@ -5,8 +5,8 @@ This is the exam that @Ulseto and I delivered.
 Grade: A
 
 Technologies used:
-* Adobe XD, 
-* React, 
+* Adobe XD
+* React
 * Git
 
 # Mobile view:
